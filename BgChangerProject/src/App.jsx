@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <h1>
-        Bg Changer Project
+        Bg Changer Project how was the day
       </h1>
     </>
   )
