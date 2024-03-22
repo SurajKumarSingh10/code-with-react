@@ -3,8 +3,8 @@ function App() {
 
   return (
     <>
-      <h1>
-        Bg Changer Project how was the day
+      <h1 className="bg-color-700">
+        Bg Changer Project
       </h1>
     </>
   )
